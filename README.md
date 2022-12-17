@@ -1,3 +1,3 @@
-# Laravel-Vue-SPA-with-Datatables
+# Laravel-Vue-SPA-starter
 
-The optimal way on how to use datatables  in your laravel vue spa
+quickly scaffold your laravel vue spa with vite
